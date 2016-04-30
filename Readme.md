@@ -1,4 +1,4 @@
-#Mobile Collab Server App 
+#Mobile Contactoo Application will be written in the Go Language on Server
 
 *Mobile Collab is intented to provide in one Apps like* 
 
